@@ -4,7 +4,7 @@
 
 If you run the code through command line, please run `convert_table.py`.
 
-If you compile the code, please use `convert_table_v2.spec`.
+If you are going to compile the code, please use `convert_table_v2.spec`.
 
 See the details below.
 
