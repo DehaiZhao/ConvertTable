@@ -15,6 +15,8 @@ See the details below.
 `python3 convert_table.py /path/to/excel /output/path`
 ![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WechatIMG108.png)
 
+If you input a path, it will scan all the `xls` and `xlsx` files in the path and convert all of them.
+
 ## Complie
 `pip3 install pyinstaller`
 
@@ -24,6 +26,8 @@ See the details below.
 ![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WechatIMG109.png)
 
 ### Follow the hint to enter path
+
+If you input a path, it will scan all the `xls` and `xlsx` files in the path and convert all of them.
 
 ![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WX20200511-215727%402x.png)
 
