@@ -8,6 +8,7 @@
 
 ## Complie
 `pip3 install pyinstaller`
+
 `pyinstaller -F convert_table_v2.py`
 
 ## Issues
