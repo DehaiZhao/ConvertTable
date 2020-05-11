@@ -9,6 +9,7 @@ If you compile the code, please use `convert_table_v2.spec`.
 
 ## Run
 `python3 convert_table.py /path/to/excel /output/path`
+![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WechatIMG108.png)
 
 ## Complie
 `pip3 install pyinstaller`
