@@ -14,6 +14,10 @@ If you compile the code, please use `convert_table_v2.spec`.
 ## Complie
 `pip3 install pyinstaller`
 `pyinstaller -F convert_table_v2.py`
+
+Double click this file to run
+![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WechatIMG109.png)
+
 ![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WX20200511-215727%402x.png)
 
 ## Issues
