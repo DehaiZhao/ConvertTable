@@ -26,4 +26,4 @@ No model named 'pkg_resources.py2_warn'
 
 1. open `convert_table_v2.spec`
 2. modify `hiddenimports=['pkg_resources.py2_warn']`
-3. `pyinstaller -F convert_table_v2.spec`
+3. compile again `pyinstaller -F convert_table_v2.spec`. Use `.spec` instead of `.py`
