@@ -23,6 +23,8 @@ See the details below.
 ### Double click this file to run
 ![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WechatIMG109.png)
 
+### Follow the hint to enter path
+
 ![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WX20200511-215727%402x.png)
 
 ## Issues
