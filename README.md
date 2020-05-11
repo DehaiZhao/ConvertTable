@@ -13,8 +13,8 @@ If you compile the code, please use `convert_table_v2.spec`.
 
 ## Complie
 `pip3 install pyinstaller`
-
 `pyinstaller -F convert_table_v2.py`
+![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WX20200511-215727%402x.png)
 
 ## Issues
 No model named 'pkg_resources.py2_warn'
