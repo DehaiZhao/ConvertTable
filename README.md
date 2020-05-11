@@ -29,6 +29,8 @@ If you input a path, it will scan all the `xls` and `xlsx` files in the path and
 
 If you input a path, it will scan all the `xls` and `xlsx` files in the path and convert all of them.
 
+Maybe it is slow to load the process, just wait patiently untile it shows 'Please enter file path'.
+
 ![](https://github.com/DehaiZhao/ConvertTable/blob/master/Images/WX20200511-215727%402x.png)
 
 ## Issues
