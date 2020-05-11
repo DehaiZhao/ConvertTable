@@ -1,5 +1,9 @@
 # ConvertTable
 
+If you run the code through command line, please run `convert_table.py`.
+
+If you compile the code, please use `convert_table_v2.spec`.
+
 ## Reqirment
 `pip3 install pandas openpyxl`
 
