@@ -1,7 +1,6 @@
 import pandas as pd
+import sys
 import os
-
-file_name = '190802_siRNA-Drug_AJG_new_analysis.xlsx'
 
 def create_df(row_set, col_set, dict_data):
 	df_data = {}
@@ -13,8 +12,11 @@ def create_df(row_set, col_set, dict_data):
 	return df_data
 
 def main():
-	sheets = pd.read_excel(file_name, None)
-	with pd.ExcelWriter('test.xlsx') as writer:
+	if len(sys.argv) < 3:
+		print ('Please enter input and output path \nExample: convert_table.py path/to/excel output/path')
+		exit(1)
+	sheets = pd.read_excel(sys.argv[1], None)
+	with pd.ExcelWriter(os.path.join(sys.argv[2], 'output.xlsx')) as writer:
 		for key in sheets:
 			rows = sheets[key]['Row'].values
 			cols = sheets[key]['Column'].values
