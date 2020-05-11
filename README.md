@@ -13,6 +13,7 @@ If you compile the code, please use `convert_table_v2.spec`.
 
 ## Complie
 `pip3 install pyinstaller`
+
 `pyinstaller -F convert_table_v2.py`
 
 Double click this file to run
